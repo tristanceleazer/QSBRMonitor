@@ -30,8 +30,8 @@ int RTval = 0;
 //#define DEBUG_MODE_PID // See the PID Values
 //#define DEBUG_MODE_YPR // See the YPR Values
 
-String WIFI_SSID = "Galaxy A52s 5G34EF";
-String WIFI_PASS = "cpcp5706";
+String WIFI_SSID = "[SSID]";
+String WIFI_PASS = "[PASS]";
 
 
 //Specify the links and initial tuning parameters
